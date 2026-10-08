@@ -1,0 +1,7 @@
+gifs/*
+wallpapers/*
+screenshots/*
+__pycache__
+.mypy_cache
+modules/__pycache__
+modules/.mypy_cache
