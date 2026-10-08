@@ -1,6 +1,12 @@
 gifs/*
+!gifs/.gitkeep
+
 wallpapers/*
+!wallpapers/.gitkeep
+
 screenshots/*
+!screenshots/.gitkeep
+
 __pycache__
 .mypy_cache
 modules/__pycache__
